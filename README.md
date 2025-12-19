@@ -1,6 +1,8 @@
 # AGE-ASCII-Game-Engine
 A comprehensive game engine framework designed to support multiple game implementations such as Flappy Bird and Space Invaders
 
+For the sake of academic integrity, implementation is omitted. 
+
 ## Overview
 
 The engine provides the following: 
