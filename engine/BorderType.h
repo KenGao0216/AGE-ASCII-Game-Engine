@@ -1,0 +1,8 @@
+#ifndef BORDER_TYPE_H
+#define BORDER_TYPE_H
+
+enum BorderType {BORDER_SOLID, BORDER_VIEW};
+
+enum BorderSide {BORDER_TOP,BORDER_BOTTOM,BORDER_LEFT,BORDER_RIGHT};
+
+#endif

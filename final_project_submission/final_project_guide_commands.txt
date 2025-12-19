@@ -1,0 +1,22 @@
+# Commands for final project guide
+
+#Extract contents of final_project_ken_gao.zip
+
+#Build all three games (it should build with #includes)
+make
+
+#Run Game 1 - Flappy Bird
+cd game-1-files
+./flappy_bird
+# Controls: SPACE to start, SPACE or W to flap, Q to quit, R to restart
+
+#Run Game 2 - Space Invaders
+cd ../game-2-files
+./space_invaders
+# Controls: SPACE to start, A/D to move, SPACE/W/MB1 to fire, Q to quit, R to restart
+
+#Run Game 3 - extra (Note: not a game, just a demonstration)
+cd ../game-3-files
+./game_3_extra
+# Controls: SPACE to start, A/D to move, Q to quit, R to restart
+
